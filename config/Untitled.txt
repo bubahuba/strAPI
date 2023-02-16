@@ -1,0 +1,4 @@
+server: db.dw022.nameserver.sk	
+Názov databázy:huba_strapi
+Uživateľské meno:huba_strapi
+Heslo:7b2eCr3f
